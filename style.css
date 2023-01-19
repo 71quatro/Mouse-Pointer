@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.dot{
+    position: absolute;
+    top:0px;
+    left: 0px;
+    background-color: rgb(255, 255, 255);
+    width: 10px;
+    aspect-ratio: 1;
+    border-radius: 100%;
+}
